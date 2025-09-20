@@ -2,7 +2,9 @@
 Open-source Odoo modules developed and maintained by Orcapod Technologies.
 
 
-Open Addons
+
+Open Source Addons
+
 
 A collection of open-source Odoo addons designed to extend functionality, improve usability, and provide practical solutions for businesses.
 This repository is community-driven and welcomes contributions, feedback, and collaboration from developers and users alike.
