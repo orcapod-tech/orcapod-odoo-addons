@@ -2,7 +2,6 @@
 Open-source Odoo modules developed and maintained by Orcapod Technologies.
 
 
-
 Open Source Addons
 
 
